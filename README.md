@@ -17,6 +17,9 @@ Gedurende dit semester wordt er van de ons als studenten verwacht dat wij één 
 Wat is agile?<br />
 Agile is een iteratieve benadering van het managen van projecten en ontwikkelen van software. Het idee van agile is dat er in plaats van een hele applicatie op wordt geleverd, een klein deel van de applicatie wordt opgeleverd. Hierdoor kan er door de klant continu feedback gegeven worden en kunnen er vrijwel direct veranderingen doorgevoerd worden.
  
+ ![image](https://user-images.githubusercontent.com/55428530/196798478-f5067dc6-e8c5-4064-aef1-e5029548b4f0.png)
+
+ 
 Welke methodes zijn er?<br />
 Scrum:<br />
 Scrum is een methode waar bedrijven gebruik van maken met zelforganiserende teams. Iedereen heeft een eigen rol binnen een team. Elke dag wordt er een korte meeting gehouden waarin er een review over het proces wordt gedaan. De verschillende rollen zijn 
