@@ -36,12 +36,12 @@ Lean is een managementfilosofie dat gericht is op het maximaliseren van de waard
 Kanban:<br />
 Het doel van kanban is om op een efficiënte manier een product produceren. Het proces wordt doormiddel van de kanban methode visueel gemaakt door gebruik te maken van een Kanbanbord. Het proces wordt vaak gevisualiseerd in 3 categoriën, namelijk to-do, doing en done. Bij complexere processen kunnen meerdere categorieën gevisualiseerd worden om knelpunten te identificeren.<br />
 4. [You design and implement a (semi)automated software release process that matches the needs of the project context. (CI/CD)]()<br />
-In het groepsproject hebben we CI/CD toegepast. Dit hebben we gedaan doormiddel van Github actions en docker. De backend is geschreven in Java, waar een docker image van gemaakt is. Deze wordt door de github actions workflow gebuild waarna deze naar een azure omgeving wordt gepusht. deze implememteerd de image waarna de omgeving vrijwel meteen live staat met de nieuwe versie.
+In het groepsproject hebben we CI/CD toegepast. Dit hebben we gedaan doormiddel van Github actions en docker. De backend is geschreven in Java, waar een docker image van gemaakt is. Deze wordt door de github actions workflow gebuild waarna deze naar een azure omgeving wordt gepusht. deze implememteerd de image waarna de omgeving vrijwel meteen live staat met de nieuwe versie.<br />
 5. [You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.]()
 
 6. [You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.]()
 
 7. [You analyze and describe simple business processes that are related to your project.]()
 
-8. [You act in a professional manner during software development and learning.]()
+8. [You act in a professional manner during software development and learning.]()<br />
 I have asked multiple times for feedback making sure I am going the right direction with the project.
