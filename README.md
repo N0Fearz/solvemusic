@@ -7,9 +7,11 @@
 For my individual project I am going to make an application which moves files and folders to given locations automatically, sort music by genre autoatically and show which genres there are. 
 
  - [Front-end]()<br />
- For the front-end I have chosen to use react. This because its widely used in the world and it has a large community. Because of this it's eassier to find solutions for some problems that I may encounter during the proces of creating the application.
+ For the front-end I have chosen to use react. This because its widely used in the world and it has a large community. Because of this it's eassier to find solutions for some problems that I may encounter during the proces of creating the application.<br />
+ De git repository van de frontend: https://github.com/N0Fearz/frontend-solvemusic<br />
  - [Back-end]()<br />
- For the back-end of the application I chose to use Java, because it's a language that is commonly used in the software branch. Because I already have experienced working with C# I decided to work with Java so I can learn this language too. I will use microservices because i want to learn to work with that too. 
+ For the back-end of the application I chose to use Java, because it's a language that is commonly used in the software branch. Because I already have experienced working with C# I decided to work with Java so I can learn this language too. I will use microservices because i want to learn to work with that too. <br />
+ de git repository van de backend: https://github.com/N0Fearz/backend-solvemusic <br />
 2. [You use software tooling and methodology that continuously monitors and improve the software quality during software development.]()<br />
 
 3. [You choose and implement the most suitable agile software development method for your software project.]()
