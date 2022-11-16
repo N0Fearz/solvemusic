@@ -1,2 +1,2 @@
-In de afbeelding hieronder is te zien hoe de applicatie opgezet gaat worden. Er wordt gebruik gemaakt van 3 microservices, elke service heeft zijn eigen verantwoordelijkheid.<br />
+In de afbeelding hieronder is te zien hoe de applicatie opgezet gaat worden. Er wordt gebruik gemaakt van 3 microservices, elke service heeft zijn eigen verantwoordelijkheid. Deze oplossing moet zorgen voor een verdeeld backend structuur waar ik verzoeken naar maak via de frontend. Ik maak geen gebruik van een gateway omdat hier geen nood voor is aangezien ik gebruik maak van 2 microserivces welke lokaal zullen draaien.<br /><br />
 ![image](https://user-images.githubusercontent.com/55428530/200577718-3ab451b7-5dba-4f06-a57c-9a9fc74aa1c5.png)
