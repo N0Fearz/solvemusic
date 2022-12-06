@@ -3,6 +3,8 @@
 # Learning outcomes
 
 
+
+
 # You design and build user-friendly, full-stack web applications
 
 - [Project description]()
@@ -18,7 +20,7 @@ For my individual project I am going to make an application which moves files an
 
 # You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
- **Individueelproject** 
+ **Individueel project** 
 
 In mijn individueel project heb ik meerdere dingen gedaan om de kwaliteit van mijn code te verbeteren en te monitoren. Ik heb de volgende tools gebruikt om mij hierbij te helpen en dit vast te leggen, namelijk:
  
@@ -105,21 +107,31 @@ Een ander voordeel aan scrum is dat wij elke ochtend een stand-up houden om te w
 
 Na elke sprint houden we een retrospective om de sprint daarvoor te evolueren. Hierdoor blijven we aanpassen aan de wensen van de klant en zelf een zo efficiënt mogelijk team. Zo heeft onze klant altijd een effectief en effiënt team wat voor hen werkt en kunnen zij aanpassingen aanvragen wanneer zij willen.
 
-<br />
+# You design and implement a (semi)automated software release process that matches the needs of the project context. (CI/CD)
 
-[Agile Manifesto](https://www.sixsigma.nl/artikelen/agile-manifesto)<br />
-[Wat is Agile](https://www.sixsigma.nl/wat-is-agile)<br />
-[Wat is Scrum](https://www.scrum.org/resources/what-is-scrum)<br />
-[Wat is Lean](https://leanmethods.com/resources/articles/what-is-lean/)<br />
-[Wat is KanBan](https://www.atlassian.com/agile/kanban)<br />
+Zoals ik in een hoofdstuk hierboven al wat heb toegelicht heb ik met twee soorten tools gewerkt om een proces te maken waarbij software automatisch gereleased wordt.
 
-4. [You design and implement a (semi)automated software release process that matches the needs of the project context. (CI/CD)]()<br />
-In het groepsproject hebben we CI/CD toegepast. Dit hebben we gedaan doormiddel van Github actions en docker. De backend is geschreven in Java, waar een docker image van gemaakt is. Deze wordt door de github actions workflow gebuild waarna deze naar een azure omgeving wordt gepusht. deze implememteerd de image waarna de omgeving vrijwel meteen live staat met de nieuwe versie.<br />
-5. [You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.]()
+de tools:
 
-6. [You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.]()
+- Jenkins
+- Github Actions
 
-7. [You analyze and describe simple business processes that are related to your project.]()
+**Individueel project**
 
-8. [You act in a professional manner during software development and learning.]()<br />
-I have asked multiple times for feedback making sure I am going the right direction with the project.
+Voor mijn individueelproject heb ik gebruik gemaakt van Jenkins. Jenkins is een open source server waarmee software mee gebouwd en uitgerold kan worden. Ik heb hier voor gekozen omdat ik gebruik maak van SonarQube en deze op mijn lokaal netwerk geïnstalleerd is. Wegens security overwegingen doe ik geen poorten open zetten om van buiten het netwerk deze te kunnen bereiken. Er is een tool waar ik gebruik van maak om het mogelijk te maken om Jenkins en github te laten communiceren zonder dat ik hier mijn netwerk voor open hoef te zetten. Deze tool heet smee.io en deze is verbonden met Github. Op het moment dat Github een push event ontvangen heeft, wordt er een webhook geactiveerd welke een sein stuurt naar de door mij aangemaakte URL in smee.io. Jenkins luistert continu naar de smee.io link en op het moment dat er een melding open staat zal Jenkins de juiste repository van Github halen en de master branch bouwen. Hier worden ook de tests en kwaliteit scans uitgevoerd. Op het moment dat de build faalt zal er een kruis op het dashboard van Jenkins te zien zijn en als deze successvol voltooid zal er een vink staan.
+
+**Groepsproject**
+
+In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles dan op een plaats geregeld wordt, wat voor de rest van de groep fijn is zodat zij ook in de gaten kunnen houden of de build slaagd of faalt. Ook heb ik gezorgd dat het project in een docker container draait. Hierdoor kan er op elke omgeving het project gedraaid worden waardoor we zeker weten dat de applicatie op elk systeem draait. De docker image wordt gemaakt in tijdens de job in Github Actions en wordt vervolgens naar dockerhub gestuurd. Op het moment dat het bouwen van de applicatie succesvol is afgerond zal deze op de live omgeving gezet worden waar vervolgens de nieuwste versie van de applicatie zal draaien.
+
+# You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
+
+# You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
+
+Tijdens het maken van de applicatie heb ik een aantal requirements opgesteld. Deze requirements heb ik opgesteld op basis van user stories. Deze heb ik beschreven in de issues van mijn github repository. Ik ben begonnen met het uitwerken van één user story, hierbij heb ik rekening gehouden met wat de user story precies inhoudt. Hiervoor heb ik een klein architectuur design gemaakt wat mij verduidelijkt hoe ik de applicatie wil laten werken. Ook heb ik een simpel wireframe design gemaakt hoe een pagina er uit moet zien.
+
+# You analyze and describe simple business processes that are related to your project.
+
+# You act in a professional manner during software development and learning.
+
+Ik heb meerdere keren om feedback gevraagd bij beide docenten om te weten of ik de goede richting in ga. Ik stuur bij waar nodig om zo dit semester zo goed als mogelijk af te kunnen ronden.
