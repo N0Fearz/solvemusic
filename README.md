@@ -35,10 +35,18 @@ In mijn individueel project heb ik meerdere dingen gedaan om de kwaliteit van mi
  Tot nu toe heb ik alleen bij de Backend, welke gemaakt is in Java, een SonarQube project draaien welke van begin tot eind afgewerkt wordt. Voor de frontend gebruik ik de ingebouwde lint die de code controleert tijdens het bouwen van de applicatie en hier meldingen van geeft waar de code niet goed is. Mochten er grote gebreken zijn wordt ook hier de pipeline afgekeurd en zal deze niet afronden. Tijdens het bouwen van het project wordt de applicatie gestart en wordt deze geverifieerd door Cypress. Als de applicatie opgestart is wordt de volgende stap gestart. Hier wordt de End to End test, gemaakt in Cypress gestart. Deze zal alle tests doorlopen. Mocht er een test falen, wordt ook hier de pipeline afgekeurd. Er wordt een video gemaakt van de test welke ik kan terug kijken om te zien wat de test doet en of deze wel goed werkt.
 
  De eerste code-scan waren er een aantal code smells aanwezig, zoals te zien op de afbeelding hieronder:
+ 
+ ![code fails 21 nov](https://user-images.githubusercontent.com/55428530/206020294-f3ff6ea8-6358-4dbc-b559-cb3c8cb2ca46.PNG)
+
 
  De tweede code-scan had een aantal code-smells meer. Dit komt doordat nog niet alle code was gepusht naar de master branch.
+ 
+![code fails 23 nov](https://user-images.githubusercontent.com/55428530/206020330-422de697-c8cf-4059-a1a4-3a88ddb6df4a.PNG)
 
  De derde code-scan had er geen meer, hier heb ik alle fouten opgelost. De SonarQube geeft wel aan dat ik dedupliceerde code heb, hiervoor heb ik aangegeven dat dit genegeerd kan worden omdat dit voor foutmeldingen gaat in 2 verschillende projecten is dit hetzelfde.
+ 
+ ![code success 23 nov](https://user-images.githubusercontent.com/55428530/206020396-df7050c5-a532-4c00-9643-39f62e2288df.PNG)
+
 
 **Groepsproject**
 
@@ -120,6 +128,9 @@ de tools:
 
 Voor mijn individueelproject heb ik gebruik gemaakt van Jenkins. Jenkins is een open source server waarmee software mee gebouwd en uitgerold kan worden. Ik heb hier voor gekozen omdat ik gebruik maak van SonarQube en deze op mijn lokaal netwerk geïnstalleerd is. Wegens security overwegingen doe ik geen poorten open zetten om van buiten het netwerk deze te kunnen bereiken. Er is een tool waar ik gebruik van maak om het mogelijk te maken om Jenkins en github te laten communiceren zonder dat ik hier mijn netwerk voor open hoef te zetten. Deze tool heet smee.io en deze is verbonden met Github. Op het moment dat Github een push event ontvangen heeft, wordt er een webhook geactiveerd welke een sein stuurt naar de door mij aangemaakte URL in smee.io. Jenkins luistert continu naar de smee.io link en op het moment dat er een melding open staat zal Jenkins de juiste repository van Github halen en de master branch bouwen. Hier worden ook de tests en kwaliteit scans uitgevoerd. Op het moment dat de build faalt zal er een kruis op het dashboard van Jenkins te zien zijn en als deze successvol voltooid zal er een vink staan.
 
+![Jenkins screenshot](https://user-images.githubusercontent.com/55428530/206020813-b62e1895-3155-4c55-9a9b-5661f95975fd.png)
+
+
 **Groepsproject**
 
 In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles dan op een plaats geregeld wordt, wat voor de rest van de groep fijn is zodat zij ook in de gaten kunnen houden of de build slaagd of faalt. Ook heb ik gezorgd dat het project in een docker container draait. Hierdoor kan er op elke omgeving het project gedraaid worden waardoor we zeker weten dat de applicatie op elk systeem draait. De docker image wordt gemaakt in tijdens de job in Github Actions en wordt vervolgens naar dockerhub gestuurd. Op het moment dat het bouwen van de applicatie succesvol is afgerond zal deze op de live omgeving gezet worden waar vervolgens de nieuwste versie van de applicatie zal draaien.
@@ -129,6 +140,10 @@ In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles 
 # You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
 Tijdens het maken van de applicatie heb ik een aantal requirements opgesteld. Deze requirements heb ik opgesteld op basis van user stories. Deze heb ik beschreven in de issues van mijn github repository. Ik ben begonnen met het uitwerken van één user story, hierbij heb ik rekening gehouden met wat de user story precies inhoudt. Hiervoor heb ik een klein architectuur design gemaakt wat mij verduidelijkt hoe ik de applicatie wil laten werken. Ook heb ik een simpel wireframe design gemaakt hoe een pagina er uit moet zien.
+
+![Figma screenshot](https://user-images.githubusercontent.com/55428530/206020768-beffa0a2-2111-44aa-a823-9337bf0d3c28.png)
+
+
 
 # You analyze and describe simple business processes that are related to your project.
 
