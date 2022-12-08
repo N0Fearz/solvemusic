@@ -142,11 +142,11 @@ Tijdens het maken van de applicatie heb ik een aantal requirements opgesteld. De
 
 ![Figma screenshot](https://user-images.githubusercontent.com/55428530/206020768-beffa0a2-2111-44aa-a823-9337bf0d3c28.png)
 
-Hieronder de testcases:
+Ook heb ik gebruik gemaakt van een zelfgeschreven UI test om te zien of data wel gevalideerd wordt. Hierdoor weet ik zeker dat ik de data in goede vorm binnen krijg.
 
 ![image](https://user-images.githubusercontent.com/55428530/206414861-d2694a6e-8c87-40e2-8aef-252a8818d825.png)
 
-Hieronder level 2 van het C4 model:
+Zoals hieronder te zien is heb ik een C4 model level 2 gemaakt om globaal te zien hoe mijn applicatie met elkaar zal werken. Ik heb gekozen voor microservices, dit heb ik verder toegelicht in mijn onderzoek.
 
 ![image](https://user-images.githubusercontent.com/55428530/206425773-e20e3685-48d4-4d3a-b6bf-2562935ebb74.png)
 
