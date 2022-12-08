@@ -143,6 +143,10 @@ Tijdens het maken van de applicatie heb ik een aantal requirements opgesteld. De
 
 ![Figma screenshot](https://user-images.githubusercontent.com/55428530/206020768-beffa0a2-2111-44aa-a823-9337bf0d3c28.png)
 
+Hieronder de testcases:
+![image](https://user-images.githubusercontent.com/55428530/206414861-d2694a6e-8c87-40e2-8aef-252a8818d825.png)
+
+
 
 
 # You analyze and describe simple business processes that are related to your project.
