@@ -147,6 +147,9 @@ Hieronder de testcases:
 
 ![image](https://user-images.githubusercontent.com/55428530/206414861-d2694a6e-8c87-40e2-8aef-252a8818d825.png)
 
+Hieronder level 2 van het C4 model:
+
+![image](https://user-images.githubusercontent.com/55428530/206425773-e20e3685-48d4-4d3a-b6bf-2562935ebb74.png)
 
 
 
