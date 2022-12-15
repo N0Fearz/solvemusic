@@ -5,7 +5,7 @@
 
 
 # You design and build user-friendly, full-stack web applications
-
+**Individueel**
 - [Project description]()
 For my individual project I am going to make an application which moves files and folders to given locations automatically, sort music by genre autoatically and show which genres there are. In the Issues i described all the things I want to add to this project. 
 
@@ -16,6 +16,13 @@ For my individual project I am going to make an application which moves files an
  For the back-end of the application I chose to use Java, because it's a language that is commonly used in the software branch. Because I already have experienced working with C# I decided to work with Java so I can learn this language too. I will use microservices because i want to learn to work with that too. <br />
  de git repository van de backend: https://github.com/N0Fearz/backend-solvemusic 
 
+**Groepsproject**
+
+- [Project description]()
+Tijdens het groepsproject hebben we de opdracht gekregen om een applicatie te maken waarbij een restaurant geautomatiseerd wordt. De klant wil dat er een applicatie wordt gemaakt waar het menu ingezien kan worden, welke de bestelling doorstuurt naar een andere applicatie die bedoeld is voor het keukenpersoneel. Hier verschijnen alle orders op die klaar gemaakt moeten worden. Verder moet er een applicatie gemaakt worden welke dient voor het barpersoneel. Drinken dat besteld wordt moet naar de bar gestuurd worden en eten naar de keuken.
+
+ - [Front-end]()
+De front-end applicaties gaan we maken in react. Dit omdat een aantal van ons ervaring heeft in react en react goede oplossingen biedt voor de problemen waar wij tegenaan lopen. Ook is het gebruikmaken van react een voordeel omdat er een grote community gebruik maakt van react.
 
 # You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
@@ -157,6 +164,8 @@ In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles 
 
 # You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
+**Individueel**
+
 Tijdens het maken van de applicatie heb ik een aantal requirements opgesteld. Deze requirements heb ik opgesteld op basis van user stories. Deze heb ik beschreven in de issues van mijn github repository. Ik ben begonnen met het uitwerken van één user story, hierbij heb ik rekening gehouden met wat de user story precies inhoudt. Hiervoor heb ik een klein architectuur design gemaakt wat mij verduidelijkt hoe ik de applicatie wil laten werken. Ook heb ik een simpel wireframe design gemaakt hoe een pagina er uit moet zien.
 
 ![Figma screenshot](https://user-images.githubusercontent.com/55428530/206020768-beffa0a2-2111-44aa-a823-9337bf0d3c28.png)
@@ -169,6 +178,17 @@ Zoals hieronder te zien is heb ik een C4 model level 2 gemaakt om globaal te zie
 
 ![image](https://user-images.githubusercontent.com/55428530/206425773-e20e3685-48d4-4d3a-b6bf-2562935ebb74.png)
 
+**Groepsproject**
+
+Voor het groepsproject hebben we requirements gekregen van de klant welke wij uit hebben geschreven in epics en user stories. In ons dashboard op Jira zijn de uitgewerkte requirements te zien. Om dit project te kunnen maken hebben we een architectuurdesign gemaakt en designs voor de front-end. Hieronder zijn deze te zien:
+
+c4 model:
+
+![c4 model groeps](https://user-images.githubusercontent.com/55428530/207858754-f892aeee-3864-43ad-a12b-4eaa81ca9787.png)
+
+design front-end:
+
+![Artboard 1](https://user-images.githubusercontent.com/55428530/207859506-e5050615-8b2c-496f-a4dc-415d6a9429ec.png)
 
 
 # You analyze and describe simple business processes that are related to your project.
