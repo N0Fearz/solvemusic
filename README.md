@@ -112,7 +112,26 @@ Tijdens het groepsproject gebruiken we Scrum. Dit omdat Scrum een methode is wat
 
 Een ander voordeel aan scrum is dat wij elke ochtend een stand-up houden om te weten waar iedereen gebleven is, waar de knelpunten zitten en hoe de voortgang is. Hierdoor weten we waar er verbeterd moet worden of waar er goed gewerkt wordt. Ook kan er hier meteen ideeën voor eventuele knelpunten besproken worden.
 
-Na elke sprint houden we een retrospective om de sprint daarvoor te evolueren. Hierdoor blijven we aanpassen aan de wensen van de klant en zelf een zo efficiënt mogelijk team. Zo heeft onze klant altijd een effectief en effiënt team wat voor hen werkt en kunnen zij aanpassingen aanvragen wanneer zij willen.
+Na elke sprint houden we een retrospective om de sprint daarvoor te evolueren. Hierdoor blijven we aanpassen aan de wensen van de klant en zelf een zo efficiënt mogelijk team. Zo heeft onze klant altijd een effectief en effiënt team wat voor hen werkt en kunnen zij aanpassingen aanvragen wanneer zij willen. Ook hebben we een dashboard aangemaakt in Jira waar we de sprintplanning in maken en bijhouden. Dat ziet er uit zoals in de afbeelding hieronder.
+
+Ook maken we gebruik van Epics. Een Epic is een taak die te groot is om in een keer uit te voeren is. In dit geval hebben we ervoor gezorgd dat we de Epics hebben opgedeeld in user stories. Een user story hoort dus bij een Epic.
+
+![jiraboard](https://user-images.githubusercontent.com/55428530/207855516-6698996b-bcf2-4745-a5f7-0a969aa4824c.png)
+
+Ook maken we gebruik van een tijdschema zodat we kunnen zien wie waar mee bezig is geweest en hoelang dat per issue geduurt heeft.
+
+![image](https://user-images.githubusercontent.com/55428530/207856177-09a31132-4320-463c-88f0-805f71e2fca4.png)
+
+![image](https://user-images.githubusercontent.com/55428530/207856387-34472ae4-7c54-4d71-b9d2-0ba8ca5c27b3.png)
+
+Na elke sprint doen we met het projectgroepje een retrospective waar ook de docent bij zat om de sprint te beoordelen. Hier kan iedereen aangeven wat er goed is gegaan, wat er minder goed is gegaan en wat we de volgende keer anders moeten doen.
+
+![image](https://user-images.githubusercontent.com/55428530/207856816-94a1aa87-e904-4395-a241-61aad09349b5.png)
+
+Hieronder is te zien hoe de acties worden beschreven welke wij voor de volgende sprint doen implementeren.
+
+![image](https://user-images.githubusercontent.com/55428530/207856912-45bbc641-8060-4a01-856c-23b57db2d32c.png)
+
 
 # You design and implement a (semi)automated software release process that matches the needs of the project context. (CI/CD)
 
