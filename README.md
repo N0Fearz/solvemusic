@@ -24,6 +24,9 @@ Tijdens het groepsproject hebben we de opdracht gekregen om een applicatie te ma
  - [Front-end]()
 De front-end applicaties gaan we maken in react. Dit omdat een aantal van ons ervaring heeft in react en react goede oplossingen biedt voor de problemen waar wij tegenaan lopen. Ook is het gebruikmaken van react een voordeel omdat er een grote community gebruik maakt van react.
 
+ - [Back-end]()
+Er is een back-end applicatie die gemaakt is in Java. Dit omdat er al wat ervaring met C# was in het groepje hebben we gekozen voor wat meer uitdaging met het leren van een nieuwe taal. Alle communicatie verloopt via de Java applicatie, zowel REST verzoeken als websockets.
+
 # You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
  **Individueel project** 
