@@ -229,6 +229,14 @@ design front-end:
 
 # You analyze and describe simple business processes that are related to your project.
 
+Tijdens het groepsproject heb ik twee businessprocessen gemaakt. De klant vroeg om een managementtool waarmee de voorraad en boekhouding mee bijgehouden kon worden. Er is geen tijd over om deze tool te maken maar ik heb er alsnog een businessproces van gemaakt om aan te geven waar winst wordt behaald op het moment dat de tool gebruikt gaat worden. 
+
+Op het bovenste proces in de afbeelding hieronder is het proces te zien met de app. Zoals te zien is kan door het digitaliseren van het berekenen van de voorraad constant de voorraad berekend worden. In het proces daaronder is te zien dat dit altijd handmatig gedaan moet worden omdat de bestellingen niet digitaal vastgelegd worden.
+
+In de onderste proces is te zien er een dag maand of weekstaat uitgredraaid kan worden door het systeem, terwijl dit zonder digitaal systeem handmatig gedaan moet worden. Alle bonnetjes moeten elke dag opgeteld worden waar uiteindelijk een maandstaat uit voort komt, terwijl het systeem dit automatisch doet. 
+
+![image](https://user-images.githubusercontent.com/55428530/209165883-1fd3a00c-efc3-4c15-af2c-79b9ffe0dd7d.png)
+
 # You act in a professional manner during software development and learning.
 
 Ik heb meerdere keren om feedback gevraagd bij beide docenten om te weten of ik de goede richting in ga. Ik stuur bij waar nodig om zo dit semester zo goed als mogelijk af te kunnen ronden.
