@@ -165,6 +165,38 @@ In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles 
 
 # You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 
+**Wat is cultuur?**
+Een systeem van afspraken dat beschrijft hoe mensen in een samenleving zich gedragen. Het wordt ook wel een manier van leven genoemd. Dit geldt per samenleving en is per samenleving anders. Mensen van verschillende culturen zien dingen anders of plaatsen dingen in een ander perspectief, hierdoor is communiceren ooit moeilijker dan met mensen uit dezelfde cultuur.
+
+**Wat zijn bekende dimensies van culturele verschillen?**
+-	Machtsafstand
+Dit houdt in hoe een samenleving omgaat met ongelijkheid.
+
+-	Masculiniteit/feminiteit
+Mensen die feminien denken vinden relaties en levenskwaliteit belangrijk, werken om te leven. Mensen die masculien denken vinden uitdaging, salaris, erkenning en promotie belangrijk. 
+
+-	Termijn denken
+In culturen is er verschil in kortetermijngerichtheid en langetermijngerichtheid. 
+Bij korte termijn vinden mensen het belangrijk dat tradities gerespecteerd moeten worden en dat sociale verplichtingen voldaan moeten worden.
+
+In cultuur met lange termijn vinden ze het belangrijk om te streven naar beloning voor de toekomst en zijn zij spaarzaam en vasthoudend.
+
+-	Onzekerheidsvermijding:
+Dit houdt in hoe mensen handelen in onbekende situaties. Ook licht het hier aan hoe gelukkig mensen zijn en hoe zij zorgen voor gezondheid.
+
+-	Individualisme:
+in deze dimensie wordt er gerefereerd naar hoe mensen zichzelf zien in relatie met anderen. Als mensen meer individueel denken zullen zij eerder zichzelf vooropzetten dan een groep mensen. Het tegenovergestelde geldt voor collectivisme.
+
+
+**Culturele verschillen die ik heb meegemaakt:**
+
+Ik heb familie wonen in België. Mijn tante is Nederlands maar haar kinderen zitten in België op school waardoor zij wel de Belgische cultuur hebben overgenomen. Wat ik merk is dat wij veel directer zijn in het communiceren. Hierdoor denken zij dat wij Nederlanders brutaal zijn en wij denken dat zij heel zachtaardig zijn. Wat ik ook merk is dat zij onderdanig zijn, aangezien als iemand iets verteld dat zij moeten doen zullen zij niet snel een weerwoord hebben in tegenstelling tot Nederlanders die dat wel doen.
+
+**Mijn cultuur**
+
+Mijn cultuur is de Nederlandse cultuur, waar ik geboren en getogen ben.
+
+
 # You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
 **Individueel**
