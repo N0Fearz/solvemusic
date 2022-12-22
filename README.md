@@ -166,6 +166,7 @@ In het groepsproject heb ik gebruik gemaakt van Github Actions. Dit omdat alles 
 # You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 
 **Wat is cultuur?**
+
 Een systeem van afspraken dat beschrijft hoe mensen in een samenleving zich gedragen. Het wordt ook wel een manier van leven genoemd. Dit geldt per samenleving en is per samenleving anders. Mensen van verschillende culturen zien dingen anders of plaatsen dingen in een ander perspectief, hierdoor is communiceren ooit moeilijker dan met mensen uit dezelfde cultuur.
 
 **Wat zijn bekende dimensies van culturele verschillen?**
