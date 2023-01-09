@@ -283,11 +283,11 @@ In het afgelopen semester heb ik ook 2 onderzoeken gemaakt welke te vinden zijn 
 
 **Microservices onderzoek**
 
-Voor het onderzoek naar microservices heb ik gebruik gemaakt van het DOT framework. Om tot een conclusie te komen in het onderzoek heb ik gebruik gemaakt van 2 methodes, namelijk library en showroom. Ik heb namelijk gebruik gemaakt van literatuur (vooral bronnen op internet) en prototypes om te kijken of mijn beeld klopte met de werkelijkheid.
+Voor het onderzoek naar microservices heb ik gebruik gemaakt van het DOT framework. Om tot een conclusie te komen in het onderzoek heb ik gebruik gemaakt van 2 strategiën, namelijk library en workshop. Ik heb namelijk gebruik gemaakt van de literatuur methode van de library strategie (vooral bronnen op internet) en prototyping van de strategie workshop om te kijken of mijn beeld klopte met de werkelijkheid.
 
 **Security onderzoek**
 
-Voor het security onderzoek heb ik ook gebruik gemaakt van het DOT framework. Ook hier heb ik gebruik gemaakt van library en showroom omdat ook hier gebruik is gemaakt van een prototype.
+Voor het security onderzoek heb ik ook gebruik gemaakt van het DOT framework. Ook hier heb ik gebruik gemaakt van library strategie en de literatuur studie methode die daaronder valt en de workshop strategie met de prototyping methode omdat ook hier gebruik is gemaakt van een prototype.
 
 ![image](https://user-images.githubusercontent.com/55428530/211286260-dbdae2c1-c93c-41e9-a22a-421a8662669b.png)
 
