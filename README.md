@@ -176,17 +176,26 @@ Dit houdt in hoe een samenleving omgaat met ongelijkheid.
 -	Masculiniteit/feminiteit
 Mensen die feminien denken vinden relaties en levenskwaliteit belangrijk, werken om te leven. Mensen die masculien denken vinden uitdaging, salaris, erkenning en promotie belangrijk. 
 
+Wij Nederlanders vinden het belangrijk dat de kwaliteit van leven goed is en is competitie en succes niet heel belangrijk. Tegenovergesteld is Amerika waar dat wel heel erg is zoals in onderstaande afbeelding te zien is.
+
+![image](https://user-images.githubusercontent.com/55428530/211275290-dd577f19-4efb-4732-854d-1c8663660574.png)
+
+
 -	Termijn denken
 In culturen is er verschil in kortetermijngerichtheid en langetermijngerichtheid. 
 Bij korte termijn vinden mensen het belangrijk dat tradities gerespecteerd moeten worden en dat sociale verplichtingen voldaan moeten worden.
-
 In cultuur met lange termijn vinden ze het belangrijk om te streven naar beloning voor de toekomst en zijn zij spaarzaam en vasthoudend.
 
 -	Onzekerheidsvermijding:
 Dit houdt in hoe mensen handelen in onbekende situaties. Ook licht het hier aan hoe gelukkig mensen zijn en hoe zij zorgen voor gezondheid.
 
--	Individualisme:
+-	Individualisme/collectivisme:
 in deze dimensie wordt er gerefereerd naar hoe mensen zichzelf zien in relatie met anderen. Als mensen meer individueel denken zullen zij eerder zichzelf vooropzetten dan een groep mensen. Het tegenovergestelde geldt voor collectivisme.
+
+In de afbeelding hieronder is te zien dat Nederland heel erg opzichzelf is. Ik merk dit zelf ook omdat er veel mensen aan zichzelf denken en niet aan anderen. Dit geldt hetzelfde voor Amerika, maar het tegenovergestelde voor India, aangezien zij heel behulpzaam zijn en meer in groepsverband denken.
+
+![image](https://user-images.githubusercontent.com/55428530/211273650-c3a64db0-1c87-497f-a98d-f339c7e82a27.png)
+
 
 
 **Culturele verschillen die ik heb meegemaakt:**
