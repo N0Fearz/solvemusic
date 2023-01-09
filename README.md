@@ -197,6 +197,35 @@ Ik heb familie wonen in België. Mijn tante is Nederlands maar haar kinderen zit
 
 Mijn cultuur is de Nederlandse cultuur, waar ik geboren en getogen ben.
 
+**Ethische aspecten**
+
+**What is ethics in software engineering?**
+
+Ethiek in software engineering is het maken en leveren van hoge kwaliteit software. Een software engineer moet kunnen analyseren, ontwikkelen en ontwerpen van softwaresystemen. Dit zijn principes die erbij moeten helpen dat er veilige, betrouwbare softwaresystemen gemaakt worden die de privacy en rechten van gebruikers in acht nemen. Een software engineer kan namelijk goed doen, maar ook software maken die kwaad doet.
+
+**Why is ethics important in software engineering?**
+
+Wanneer software invloed heeft op de manier hoe we ons gedragen of denken is het belangrijk dat er ethische waardes vastgelegd worden. Wanneer software gemaakt wordt is het in de meeste gevallen niet bedoeld dat er dingen met slechte intenties mee gebeurt. Ook is ethiek belangrijk in software engineering omdat er vaak gebruik wordt gemaakt van data van gebruikers, terwijl gebruikers recht hebben op hun privacy.
+
+**What do you have to do as a software engineer to address ethical aspects in your work?** 
+
+Er is een Software Code of Ethics vastgesteld waarin beschreven staat waar een software engineer zich aan moet houden.
+
+- Publiek: een software engineer zal altijd handelen in overeenstemming met het algemeen belang.
+- Klant en werkgever: software engineer zal handelen in het belang van zijn/haar klant of werkgever in overeenstemming met het algemeen belang.
+- Product: software engineers zorgen dat hun product en modificaties aan de hoogste standaarden voldoen als mogelijk.
+- Oordeel: software engineers moeten hun integriteit en onafhankelijkheid behouden in hun professionele oordeel.
+- Management: managers en leiders van software engineers zorgen en bevorderen een ethische benadering van het beheer van softwareontwikkeling en onderhoud.
+- Beroep: software engineers bevorderen de integriteit en reputatie van het beroep in overeenstemming met het algemeen belang.
+- Collega’s: Software engineers zullen eerlijk en behulpzaam naar hun collega’s zijn.
+- Eigen: Software engineers zullen levenslang leren omtrent het uitvoeren van hun beroep en bevorderen een ethische benadering van het uitoefenen van het beroep.
+
+**Poster ethische kwesties**
+
+Hieronder heb ik een aantal vragen beantwoord wat ethiek betreft binnen mijn individueel project.
+
+![image](https://user-images.githubusercontent.com/55428530/211271196-e8563462-e14e-4ea4-a62e-ee4c745567e8.png)
+
 
 # You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
