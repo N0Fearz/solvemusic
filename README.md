@@ -264,6 +264,28 @@ design front-end:
 
 ![Artboard 1](https://user-images.githubusercontent.com/55428530/207859506-e5050615-8b2c-496f-a4dc-415d6a9429ec.png)
 
+**Usability tests**
+
+Voor het groepsproject heb ik een aantal usabillitytests uit laten voeren door 2 verschillende personen. Hieronder zal ik het resultaat toelichten.
+
+Persoon 1:
+
+- Er kan al op de knop geklikt worden terwijl deze nog niks kan doen, liefste zou hij zien dat de knop uitgeschakeld wordt wanneer er niets met de knop gedaan kan worden
+- Eten werd verwijderd van het bonnetje maar wordt alsnog besteld
+- Navigatie mag wat duidelijker met titels/namen
+
+
+Persoon 2
+
+- Vind applicatie heel duidelijk
+- Vraagt zich af of gerechten in de keuken gesleept of geklikt moeten worden
+- Klant krijgt niet te zien hoelang het nog duurt voordat eten bereid is
+- Navigatie onduidelijk of het knoppen zijn
+
+**Conclusie:**
+
+Beide personen vinden dat de navigatie duidelijker moet, hier moet wat aan gedaan worden. Dat eten verwijderd wordt maar alsnog besteld wordt is een bug in de applicatie, dit moet verholpen worden. Wat betreft de knop die uitgeschakeld moet worden moeten we naar kijken wat daar het beste voor past. Wat betreft het niet te zien krijgen van de bereidingstijd is een keuze geweest vanuit ons aangezien mensen dan gaan letten op hoelang het nog zou duren.
+
 
 # You analyze and describe simple business processes that are related to your project.
 
